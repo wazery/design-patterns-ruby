@@ -29,7 +29,7 @@ where each type of object has a different internal representation.
 
 ### Director
 This class uses the AbstractBuilder's interfaces to create a product in multiple steps.
-The Directory only knows the steps to create an object. What goes into the object at each
+The Director only knows the steps to create an object. What goes into the object at each
 step is unknown to it.
 
 ### Product
