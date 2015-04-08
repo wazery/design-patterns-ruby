@@ -1,6 +1,6 @@
 Builder
 =======
-This pattern works by creates an abstract plan describing the steps for creating a complex object,
+This pattern works by creating an abstract plan describing the steps for creating a complex object,
 and then carry out the same steps on different implementations, as long as each implementation
 implements all the steps.
 
